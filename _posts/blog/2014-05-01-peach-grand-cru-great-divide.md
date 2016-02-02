@@ -17,14 +17,7 @@ excerpt: "A review of Peach Grand Cru, a Belgian Strong Dark Ale from Great Divi
 share: true
 ---
 
-
-<figure>
-  <img src="{{ site.url }}/images/Peach-Grand-Cru-Label.jpg" alt="Peach Grand Cru Label">
-  <figcaption>Peach Grand Cru Label.</figcaption>
-</figure>
-
 ![Peach Grand Cru Label]({{ site.url }}/images/Peach-Grand-Cru-Label.jpg)
-*Peach Grand Cru Label.*
 
 ### Basic Beer Info:
 
