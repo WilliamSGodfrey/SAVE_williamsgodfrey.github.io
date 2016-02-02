@@ -15,7 +15,7 @@ tags:
   - Belgian Ale
   - Fruit
   - Great Divide
-excerpt: A review of Peach Grand Cru, a Belgian Strong Dark Ale from Great Divide Brewing Company.
+excerpt: "A review of Peach Grand Cru, a Belgian Strong Dark Ale from Great Divide Brewing Company."
 ---
 
 ![Peach Grand Cru Label]({{ site.url }}/images/Peach-Grand-Cru-Label.jpg)

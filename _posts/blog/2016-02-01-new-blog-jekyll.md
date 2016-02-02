@@ -2,7 +2,7 @@
 layout:     post
 title:      A new look via Jekyll
 date:       2016-02-01 09:06:19
-summary:    williamsgodfrey.com is now running on Jekyll, a parsing engine bundled as a ruby gem used to build static websites from dynamic components.
+excerpt:    williamsgodfrey.com is now running on Jekyll, a parsing engine bundled as a ruby gem used to build static websites from dynamic components.
 categories: jekyll pixyll
 ---
 
