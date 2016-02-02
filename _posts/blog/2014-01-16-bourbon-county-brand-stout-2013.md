@@ -2,19 +2,18 @@
 id: 1093
 title: Bourbon County Brand Stout, 2013 ed., Goose Island Beer Co.
 date: 2014-01-16T21:51:41+00:00
-author: William S Godfrey
 layout: post
 guid: http://www.williamsgodfrey.com/?p=1093
 permalink: /bourbon-county-brand-stout-2013/
 dsq_thread_id:
   - 2132564013
 categories:
-  - Beer Review
+  - beer
 tags:
   - Beer Review
   - Goose Island Beer Co.
-  - Imperial Sout
-excerpt: A review of 2013 Bourbon County Brand Stout, an Imperial Stout aged in bourbon barrels from Goose Island Beer Co.
+excerpt: "A review of 2013 Bourbon County Brand Stout, an Imperial Stout aged in bourbon barrels from Goose Island Beer Co."
+comments: true
 ---
 
 ![2013 Bourbon County Brand Stout Label]({{ site.url }}/images/GooseIsland_BCS20131-289x300.jpg)

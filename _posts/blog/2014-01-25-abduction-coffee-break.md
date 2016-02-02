@@ -2,19 +2,18 @@
 id: 1119
 title: Coffee Break Abduction, Pipeworks Brewing Company
 date: 2014-01-25T22:41:30+00:00
-author: William S Godfrey
 layout: post
 guid: http://www.williamsgodfrey.com/?p=1119
 permalink: /abduction-coffee-break/
 dsq_thread_id:
   - 2175999923
 categories:
-  - Beer Review
+  - beer
 tags:
   - Beer Review
-  - Imperial Sout
   - Pipworks
-excerpt: A review of Coffee Break Abduction, an imperial stout from Pipeworks Brewing Company.
+excerpt: "A review of Coffee Break Abduction, an imperial stout from Pipeworks Brewing Company."
+comments: true
 ---
 
 

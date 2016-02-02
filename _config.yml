@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: william s godfrey
+title: wsg
 locale: en_US
-description: Just another blog.
-logo: 
+description: the personal weblog of william s godfrey
+logo: favicon-192x192.png
 search: true
 url: http://williamsgodfrey.com
 

@@ -2,20 +2,18 @@
 id: 1064
 title: Choklat, Southern Tier Brewing Company
 date: 2014-01-12T18:04:24+00:00
-author: William S Godfrey
 layout: post
 guid: http://www.williamsgodfrey.com/?p=1064
 permalink: /choklate-southern-tier-brewing/
 dsq_thread_id:
   - 2114261890
 categories:
-  - Beer Review
+  - beer
 tags:
   - Beer Review
-  - Imperial Sout
   - Southern Tier
-  - stout
-excerpt: A review of Choklat, an Imperial Stout from Southern Tier Brewing Company.
+excerpt: "A review of Choklat, an Imperial Stout from Southern Tier Brewing Company."
+comments: true
 ---
 
 ![Choklat Label]({{ site.url }}/images/body_choklat-stout-22oz-bottle_low1-300x192.jpg)
