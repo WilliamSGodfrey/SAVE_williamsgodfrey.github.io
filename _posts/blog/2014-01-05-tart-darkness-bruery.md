@@ -11,7 +11,7 @@ categories:
   - beer
 tags:
   - Beer Review
-  - the bruery
+  - The Bruery
 excerpt: "A review of Tart of Darkness, a Sour Stout from The Bruery."
 comments: true
 share: true

@@ -9,8 +9,9 @@ dsq_thread_id:
   - 2061955563
 categories:
   - Personal Finance
-excerpt: "A short discussion about the optimum saving strategy for the average young professional."
-
+excerpt: "A short discussion about the optimal saving strategy for a typical young professional."
+comments: true
+share: true
 ---
 
 It&#8217;s easy to feel overwhelmed and do nothing with respect to saving and planning for the future. When I first graduated from grad school and started receiving a steady income, I felt like I had a TON of extra money. I had just finished EIGHT years of college. Eight years where every last dollar I had went towards tuition, books, rent, or food (maybe some [beer ](http://williamsgodfrey.com/tags/#Beer Review)too). Now that I was done with school, I didn&#8217;t know what to do with my extra money. I decided to aggressively pay down my school debt, but I put off contributing to an IRA and fully capturing my employer&#8217;s matching 401k contributions. It wasn&#8217;t the worst mistake I&#8217;ve ever made and I&#8217;ve since come a long way in terms of my financial education. Hopefully this post can prevent someone else from making a similar mistake, I know it would have been helpful to have a road map like this when I first graduated.
