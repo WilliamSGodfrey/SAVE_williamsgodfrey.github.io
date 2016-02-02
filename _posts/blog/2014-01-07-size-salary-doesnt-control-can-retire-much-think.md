@@ -10,7 +10,7 @@ dsq_thread_id:
 categories:
   - Personal Finance
 comments: true
-excerpt: ""
+excerpt: "test"
 ---
 I used to have the assumption that the higher a person&#8217;s salary was, the earlier they could retire. I always imagined rich, not-so-old people frolicking around where ever it is that rich, not-so-old people frolic. I thought that the key to retirement, and early retirement, was to just make as much money as possible. I think that this is a common misunderstanding, and I think it can be a dangerous way to approach your financial future.
 
