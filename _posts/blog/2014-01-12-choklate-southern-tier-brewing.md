@@ -14,6 +14,7 @@ tags:
   - Southern Tier
 excerpt: "A review of Choklat, an Imperial Stout from Southern Tier Brewing Company."
 comments: true
+share: true
 ---
 
 ![Choklat Label]({{ site.url }}/images/body_choklat-stout-22oz-bottle_low1-300x192.jpg)

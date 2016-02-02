@@ -1,6 +1,6 @@
 ---
 id: 995
-title: 'The size of your salary doesn't control when you can retire as much as you think it does'
+title: "Salary vs. Retirement Age"
 date: 2014-01-07T17:40:36+00:00
 layout: post
 guid: http://www.williamsgodfrey.com/?p=995
@@ -10,7 +10,8 @@ dsq_thread_id:
 categories:
   - personal finance
 comments: true
-excerpt: "test"
+share: true
+excerpt: "A look at the relationshi between your salary size and your retirement age."
 ---
 
 I used to have the assumption that the higher a person&#8217;s salary was, the earlier they could retire. I always imagined rich, not-so-old people frolicking around where ever it is that rich, not-so-old people frolic. I thought that the key to retirement, and early retirement, was to just make as much money as possible. I think that this is a common misunderstanding, and I think it can be a dangerous way to approach your financial future.

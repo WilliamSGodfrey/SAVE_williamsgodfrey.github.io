@@ -14,6 +14,7 @@ tags:
   - Pipworks
 excerpt: "A review of Coffee Break Abduction, an imperial stout from Pipeworks Brewing Company."
 comments: true
+share: true
 ---
 
 

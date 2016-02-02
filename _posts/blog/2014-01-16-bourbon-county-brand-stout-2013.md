@@ -14,6 +14,7 @@ tags:
   - Goose Island Beer Co.
 excerpt: "A review of 2013 Bourbon County Brand Stout, an Imperial Stout aged in bourbon barrels from Goose Island Beer Co."
 comments: true
+share: true
 ---
 
 ![2013 Bourbon County Brand Stout Label]({{ site.url }}/images/GooseIsland_BCS20131-289x300.jpg)
