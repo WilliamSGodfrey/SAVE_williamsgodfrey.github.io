@@ -48,7 +48,7 @@ titlecase: true
 # Site owner
 owner:
   name: William S Godfrey
-  avatar: #bio-photo.jpg
+  avatar: me.png
   email: will@williamsgodfrey.com
   disqus-shortname: williamsgodfrey
   twitter: williamsgodfrey
