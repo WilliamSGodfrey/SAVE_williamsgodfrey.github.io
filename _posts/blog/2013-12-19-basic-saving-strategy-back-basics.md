@@ -61,12 +61,11 @@ Note, if you have not contributed to a 401k yet, fund your IRA before saving for
 
 Take advantage of the tax savings available to you in the 401k. Contribute as much as possible.
 
-### Establish and fund a non-tax advantaged brokerage account
+### Establish and fund a brokerage account
 
 If you still have money left at this point, you are definitely on the right track and it&#8217;s time to start contributing to your regular brokerage account. You might also be interested in knowing how close to early retirement you probably are (link coming soon).
 
 ### Approach the plan incrementally
-
 Looking at these 6 steps initially makes it seem like you need thousands and thousands of dollars of left over money. Remember that you are going to contribute to these accounts on a monthly basis, with smaller chunks of money. For example, with $750 left over at the end of the month, assuming you already have a emergency fund, you can:
 
   * get your full 4% employer match in your 401k, $171 (assuming you make the <a title="$51,324" href="http://www.census.gov/prod/2013pubs/acsbr12-02.pdf" target="_blank">median US income</a>)
@@ -75,7 +74,7 @@ Looking at these 6 steps initially makes it seem like you need thousands and tho
   * save $35 for your next big vacation
   * save $36 for a new car (or get a bike, and save yourself loads of money)
 
-##### Implementing the plan
+### Implementing the plan
 
 I have found that <a title="Capital 360" href="https://r.capitalone360.com/DdPSFCbpW4" target="_blank">Capital 360 (used to be ING Direct)</a> is a fantastic bank that really works well for my saving strategy. I am able to partition our savings account into as many sub-accounts as I want, which I can then name, and set up all sorts of fun automatic transfers.
 
