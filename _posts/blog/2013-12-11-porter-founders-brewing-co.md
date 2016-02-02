@@ -2,7 +2,6 @@
 id: 895
 title: Porter, Founders Brewing Company
 date: 2013-12-11T21:15:13+00:00
-author: William S Godfrey
 layout: post
 guid: http://www.williamsgodfrey.com/?p=895
 permalink: /porter-founders-brewing-co/
