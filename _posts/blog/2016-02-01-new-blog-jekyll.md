@@ -15,11 +15,11 @@ I recently migrated this website from [Wordpress](https://wordpress.org/) to [Gi
 
 Jekyll is a parsing engine bundled as a ruby gem used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as "a simple, blog aware, static site generator." In other words, the website is now simply a set of static files. Posts are written in [Markdown](https://en.wikipedia.org/wiki/Markdown) and, since I'm using Github Pages for hosting, pushed to the site.
 
-###Still a work in progress
+### Still a work in progress
 
 Jekyll prides itself as being the way to ["blog like a Hacker"](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html). As a result, there is a fair amount of work still to be done here with respect to fully migrating the old site and ensuring an equal level of functionality.
 
-Still to be done:
+To do list:
 
   1. Figure out how to display the normalized beer ratings on the review posts.
   2. Figure out how to reduce post title font size on index page without messing up other stuff.
