@@ -2,7 +2,6 @@
 id: 1140
 title: Peach Grand Cru, Great Divide Brewing Company
 date: 2014-05-01T21:20:08+00:00
-author: William S Godfrey
 layout: post
 guid: http://www.williamsgodfrey.com/?p=1140
 permalink: /peach-grand-cru-great-divide/
