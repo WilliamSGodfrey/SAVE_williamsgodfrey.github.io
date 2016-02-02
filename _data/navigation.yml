@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: Home
+  url: /index
+
 - title: About
   url: /about/
 
@@ -15,5 +18,3 @@
 - title: Search
   url: /search/
 
-- title: Home
-  url: /index
