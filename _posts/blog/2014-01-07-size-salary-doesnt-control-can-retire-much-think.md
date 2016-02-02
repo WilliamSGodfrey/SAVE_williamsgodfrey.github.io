@@ -8,19 +8,16 @@ permalink: /size-salary-doesnt-control-can-retire-much-think/
 dsq_thread_id:
   - 2098869439
 categories:
-  - Personal Finance
+  - personal finance
 comments: true
 excerpt: "test"
 ---
+
 I used to have the assumption that the higher a person&#8217;s salary was, the earlier they could retire. I always imagined rich, not-so-old people frolicking around where ever it is that rich, not-so-old people frolic. I thought that the key to retirement, and early retirement, was to just make as much money as possible. I think that this is a common misunderstanding, and I think it can be a dangerous way to approach your financial future.
 
 As I progressed through life and met &#8220;rich&#8221; people, I realized I was wrong. People with high salaries often have proportionally high spending (usually because they&#8217;ve become a victim of </span><a style="line-height: 1.5em;" title="lifestyle inflation" href="http://www.investopedia.com/terms/l/lifestyle-inflation.asp" target="_blank">lifestyle inflation</a><span style="line-height: 1.5em;">). Great, I thought, these people making piles of money don&#8217;t appear at all ready to retire. </span>
 
 ## So if not salary, then what?
-
-<!--more-->
-
-
   
 I ([and](http://earlyretirementextreme.com/) [plenty](http://www.mrmoneymustache.com/) of [others](http://rootofgood.com/)) came to the realization that it was **savings**. Specifically, your saving rate. It&#8217;s your savings rate, the amount you save relative to your take home pay[^1], expressed as a percentage, will effect your time to retirement to a greater degree than your annual salary.
 
