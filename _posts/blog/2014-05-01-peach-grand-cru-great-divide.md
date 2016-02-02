@@ -9,14 +9,19 @@ permalink: /peach-grand-cru-great-divide/
 dsq_thread_id:
   - 2654318233
 categories:
-  - Beer Review
+  - beer
 tags:
   - Beer Review
-  - Belgian Ale
-  - Fruit
   - Great Divide
 excerpt: "A review of Peach Grand Cru, a Belgian Strong Dark Ale from Great Divide Brewing Company."
+share: true
 ---
+
+
+<figure>
+  <img src="{{ site.url }}/images/Peach-Grand-Cru-Label.jpg" alt="Peach Grand Cru Label">
+  <figcaption>Peach Grand Cru Label.</figcaption>
+</figure>
 
 ![Peach Grand Cru Label]({{ site.url }}/images/Peach-Grand-Cru-Label.jpg)
 

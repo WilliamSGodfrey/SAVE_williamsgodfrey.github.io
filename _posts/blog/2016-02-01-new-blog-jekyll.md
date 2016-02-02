@@ -2,8 +2,8 @@
 layout:     post
 title:      A new look via Jekyll
 date:       2016-02-01 09:06:19
-excerpt:    williamsgodfrey.com is now running on Jekyll, a parsing engine bundled as a ruby gem used to build static websites from dynamic components.
-categories: jekyll pixyll
+excerpt:    "williamsgodfrey.com is now running on Jekyll, a parsing engine bundled as a ruby gem used to build static websites from dynamic components."
+categories: meta
 ---
 
 I recently migrated this website from [Wordpress](https://wordpress.org/) to [Github Pages](https://pages.github.com/) using [Jekyll](https://jekyllrb.com/) and [Pixyll](https://github.com/johnotander/pixyll). Wordpress was becoming annoying, with its constant nagging about updates and awful WYSIWYG editor on the backend. I felt like I had to very carefully work around the awfully generated HTML in order to accomplish the simplest things. And it wasn't like I needed all that functionality anyway. This site is used very little. It was time to simplify.
