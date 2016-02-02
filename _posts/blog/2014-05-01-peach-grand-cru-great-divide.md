@@ -24,6 +24,7 @@ share: true
 </figure>
 
 ![Peach Grand Cru Label]({{ site.url }}/images/Peach-Grand-Cru-Label.jpg)
+Peach Grand Cru Label.
 
 ### Basic Beer Info:
 
