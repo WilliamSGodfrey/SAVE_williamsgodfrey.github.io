@@ -9,7 +9,7 @@ dsq_thread_id:
   - 2036651291
 categories:
   - Personal Finance
-excerpt: "A short discussion about 401(k) plans and how to ensure you're taking fulladvantage of these tax sheltered accounts."
+excerpt: "A short discussion about 401(k) plans and how to ensure you're taking full advantage of these tax sheltered accounts."
 comments: true
 share: true
 ---
