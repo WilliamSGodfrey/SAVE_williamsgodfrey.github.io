@@ -1,19 +1,13 @@
 # Site navigation links
 
+- title: Home
+  url: /index
+
 - title: About
   url: /about/
 
-#- title: Articles
-#  url: /articles/
-
-- title: Blog
+- title: Archive
   url: /blog/
-
-#- title: Theme Setup
-#  url: /theme-setup/
 
 - title: Search
   url: /search/
-
-- title: Home
-  url: /index
