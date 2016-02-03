@@ -29,15 +29,15 @@ share: true
   * **Imbibition date:** 12-4-13
   * **Temperature:** 57°
   * **Serving type:** Poured from 22oz bottle into a pint glass
-  * **Price:** $8.99/22 oz (Binny&#8217;s Beverage Depot)
+  * **Price:** $8.99/22 oz (Binny's Beverage Depot)
 
-Another one from Spiteful Brewing here in Chicago. I learned a few fun facts about these guys recently. First, they are self distributed, meaning that they deliver their beer to all the liquor stores in the area. This surprised me because I see their stuff all around (maybe I&#8217;ve only ever seen it at Binny&#8217;s) and as a consumer, I figured they were distributed just the same as all the other &#8220;big&#8221; Chicago micro-breweries. And then, second, they&#8217;ve only been around for a year or so and are getting some [national attention](http://americancraftbeer.com/item/my-favorite-chicagoland-craft-beers-from-2013.html?category_id=5&fb_source=message "FAVORITE CHICAGOLAND CRAFT BEERS FROM 2013") for the quality of some of their beers. And finally, they&#8217;re located less than 2 miles from our front door. That makes three different, very good, young breweries within a 30 minute walk from our place ([Half Acre](http://halfacrebeer.com/ "Half Acre Brewing") and](http://metrobrewing.com/) being the others). What a great time to be a beer fan and live in Chicago.
+Another one from Spiteful Brewing here in Chicago. I learned a few fun facts about these guys recently. First, they are self distributed, meaning that they deliver their beer to all the liquor stores in the area. This surprised me because I see their stuff all around (maybe I've only ever seen it at Binny's) and as a consumer, I figured they were distributed just the same as all the other &#8220;big&#8221; Chicago micro-breweries. And then, second, they've only been around for a year or so and are getting some [national attention](http://americancraftbeer.com/item/my-favorite-chicagoland-craft-beers-from-2013.html?category_id=5&fb_source=message "FAVORITE CHICAGOLAND CRAFT BEERS FROM 2013") for the quality of some of their beers. And finally, they're located less than 2 miles from our front door. That makes three different, very good, young breweries within a 30 minute walk from our place ([Half Acre](http://halfacrebeer.com/ "Half Acre Brewing") and [Metropolitan Brewing](http://metrobrewing.com/) being the others). What a great time to be a beer fan and live in Chicago.
 
 A big thanks to RC on this one for leaving this behind in our fridge after house sitting for us in November!
 
 ### Appearance: 4.0/5
 
-Lots a head on my pour. 1 1/2 to 2 fingers worth of a solid, light tan head of fairly large bubbles. The beer itself is a very dark brown with glints of muddy maroon highlights around the edges, especially when taking a sip. It&#8217;s largely opaque, but it&#8217;s hard to tell if that&#8217;s from sentiment or just due to the super dark color of the beer. My guess is the later.
+Lots a head on my pour. 1 1/2 to 2 fingers worth of a solid, light tan head of fairly large bubbles. The beer itself is a very dark brown with glints of muddy maroon highlights around the edges, especially when taking a sip. It's largely opaque, but it's hard to tell if that's from sentiment or just due to the super dark color of the beer. My guess is the later.
 
 ### Aroma: 3.0/5
 
@@ -53,11 +53,11 @@ A good mouthfeel, true to form. A noticeable fine, carbonated tickle on the tong
 
 ### Label:
 
-Spiteful always has some good fun with their labels. I&#8217;m glad to see someone shares my feelings about the Chicago pigeons.
+Spiteful always has some good fun with their labels. I'm glad to see someone shares my feelings about the Chicago pigeons.
 
 ### Overall: 3.5/5
 
-I always like the idea of weird adjuncts (in this case, cascara tea, apparently) but they don&#8217;t always pan out. I had to really look for any sign of the tea here, I think that defeats the purpose of adding it. Obviously adjuncts shouldn&#8217;t overwhelm the beer, but I do believe that they should contribute to the overall character of the beer in some way. With that said, I think the tea was a whiff on this one. Perhaps I should taste it side by side with the regular God Damn Pigeon Porter.
+I always like the idea of weird adjuncts (in this case, cascara tea, apparently) but they don't always pan out. I had to really look for any sign of the tea here, I think that defeats the purpose of adding it. Obviously adjuncts shouldn't overwhelm the beer, but I do believe that they should contribute to the overall character of the beer in some way. With that said, I think the tea was a whiff on this one. Perhaps I should taste it side by side with the regular God Damn Pigeon Porter.
 
 ### Conclusion:
 
