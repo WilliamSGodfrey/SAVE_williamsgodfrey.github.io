@@ -25,5 +25,10 @@ To do list:
   2. Figure out how to reduce post title font size on index page without messing up other stuff.
   3. Clean up all the old posts migrated from Wordpress via the wordpress2jekyll script.
   4. Change wording in the contact form.
-  5. Figure out nested lists and paragraphs in lists.
+  5. Figure out nested lists and paragraphs in lists.  
+   test
+   * test
+   * test
+  6. Testing  
+   indented paragraph
 
