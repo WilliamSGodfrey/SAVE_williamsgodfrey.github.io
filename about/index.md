@@ -16,8 +16,9 @@ I am a structural analyst based in the great city of Chicago. I have over 6 year
  * Structural design development of the nuclear island safety related structures for the NRG South Texas Project Units 3 & 4
  * [Site-specific seismic analysis of safety related nuclear structures for DTE Enrico Fermi Unit 3](http://www.sargentlundy.com/projects/enrico-fermi-u3-project/)
  * Physical Plant Security structural design development and detailed design for the [Barakah Nuclear Power Plant](https://en.wikipedia.org/wiki/Barakah_nuclear_power_plant)
+ * [Chico Highschool Lincoln Center](http://www.skwarchitects.com/portfolio/education/chico-high-school-cafeteria-field-house)
 
-When I'm not working I enjoy spending tim with with my wife, dog, and two cats. I also ride my bike a lot, obsess over craft beer, look at maps, and putz around with python & R.
+When I'm not working I enjoy spending time with with my wife, dog, and two cats. I also ride my bike a lot, obsess over craft beer, look at maps, and putz around with python & R.
 
 If you would like to do the social media thing, look me up on any of the social platforms listed below.
 
