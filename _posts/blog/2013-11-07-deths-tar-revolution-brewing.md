@@ -33,18 +33,17 @@ share: true
 
 Revolution Brewing is a fairly new Chicago brewery. They first opened their doors in 2010 with a small brewery and eventual pub in the Wicker Park neighborhood of Chicago. They&#8217;ve really come into form lately, releasing some absolutely fantastic beers. I keep buying their beer with the intention of reviewing it, but I keep drinking it too fast; never stopping and taking the time to actually write down and record the experience. This time, I finally did it. I got my hands on 4 bottles of their recently released Deth&#8217;s Tar, a barrel aged imperial stout. This beer is a single-run-never-coming-back-again beer, I was really anxious that they were going to run out before I made it over to grab a few bottles. It is everything I had hoped for, plus a high five.
 
-### Appearance:
- 4.5/5 (outstanding ++)
+### Appearance:  4.5/5 
   
 Sexy. Deth&#8217;s Tar pours the same color as the dark brown glass bottle it comes from. A deep brown the color of wet soil with about 1 1/2 fingers of fairly light tan head. As the head recedes after a handful of sips the bubbles become very sparse, almost disappearing completely. The beer itself is entirely opaque.
 
-### Aroma: 4.75/5 (perfect -)
+### Aroma: 4.75/5 
   
 Oak, so much oak. The nose is initially a very oaky, slightly spicy, nearly identical to a good whiskey. There is _not_ a big booze smell or hotness to the odor at all. No hop aroma but a definite sweetness from the malt. As it warms I get grains. A bit of toast or cracker, maybe bread.
 
 My reviewer&#8217;s assistant was very adamant that she got a nose full of whiskey and cherry coke, or maybe rum and coke. I concur, if my eyes were closed and I caught a whiff of this I would assume it was a slightly sweet mixed drink with some whiskey in it.
 
-### Taste: 4.5/5 (outstanding ++)
+### Taste: 4.5/5
   
 Bliss. My notes say,
 
@@ -52,7 +51,7 @@ Bliss. My notes say,
 
 I really think that this beer has the potential to cellar very well. That booze flavor and heat should (could?) mellow a bit, bringing the chocolate and caramel flavors a chance to mingle a bit more with that oaky malt. I currently have 2 bottle stashed away. Perhaps we&#8217;ll see another review in a year&#8217;s time.
 
-### Mouthfeel: 4.25/5 (perfect -)
+### Mouthfeel: 4.25/5 
   
 Great body, smooth with a slight tickle from small, very fine bubbles that you don&#8217;t even realize are there until you feel them. The consistency, maybe the coating, really reminded me of milk, or of an oatmeal stout. I wouldn&#8217;t be surprised to learn that there was some oatmeal in the grain bill.
 
@@ -60,7 +59,7 @@ Great body, smooth with a slight tickle from small, very fine bubbles that you d
 
 Revolution has such a great aesthetic from a design standpoint. Their entire branding is sharp, focused, and coherent, this label is no different. It&#8217;s frame-able.
 
-### Overall: 4.75/5 (outstanding +)
+### Overall: 4.75/5 
   
 It&#8217;s amazing. I struggled with whether to give this a higher overall rating. This is probably my current favorite beer and I think it&#8217;ll be there for a while.
 
