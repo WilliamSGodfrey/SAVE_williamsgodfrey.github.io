@@ -1,6 +1,6 @@
 ---
 id: 586
-title: 2013 Beer Hoptacular, more beer than I could ever really taste
+title: 2013 Beer Hoptacular
 date: 2013-11-10T14:17:32+00:00
 layout: post
 guid: http://www.williamsgodfrey.com/?p=586
