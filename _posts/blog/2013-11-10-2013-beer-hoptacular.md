@@ -15,6 +15,8 @@ comments: true
 share: true
 image:
   feature: beerhop.jpg
+excerpt: ""
+
 ---
 
 I flew home this weekend to sneak some quick time in with AJOG before heading back out to Pennsylvania for work again this week. This was the 4th annual <a href="http://beerhoptacular.com/">Beer Hoptacular</a> and one of the better beer tasting events I have ever been to.
