@@ -10,11 +10,11 @@ dsq_thread_id:
 categories:
   - Beer Review
 tags:
-  - Beer
+  - Beer Fest
 comments: true
 share: true
 image:
-  feature: beerhop.jpg
+  feature: beerhop1.jpg
 excerpt: ""
 
 ---
