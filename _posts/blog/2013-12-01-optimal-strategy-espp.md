@@ -19,9 +19,7 @@ Tim specifically wanted to know 3 things. First, did I think he should be partic
 
 I think the genesis of these questions is based partly in naiveté about tax law and financial planning but also in the uncertainty of quantifying the opportunity cost and difficulty in calculating the return on investment (ROI) of such an opportunity.
 
-<!--more-->
-
-[This is a long, post full of good stuff, but if you're in a hurry to see my answer to Tim's questions click [here to jump to the summary](#Summary).]
+[This is a long, post full of good stuff, but if you're in a hurry to see my answer to Tim's questions, [jump to the summary](#Summary).]
 
 ## The ESPP Details
 
@@ -69,7 +67,7 @@ By setting up a system in which he holds stock for 1 1/2 years, his effective IR
 
 [If you'd like to get your hands on the worksheets I put together to perform this analysis, take a look here: <a title="ESPP Analysis" href="https://docs.google.com/spreadsheet/ccc?key=0Aiu4oxRTFijmdHdGUUZCNmV1dnc4T05NX2xzODZIcFE&usp=sharing">ESPP Analysis</a>]
 
-##Summary
+##<a name="Summary">Summary
 
 So what did I tell Tim?
 
