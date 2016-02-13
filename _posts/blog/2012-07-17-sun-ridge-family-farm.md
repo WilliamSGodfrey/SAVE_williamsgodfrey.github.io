@@ -29,26 +29,26 @@ share: true
 </p>
 
 <figure>
-  <a href="{{ site.url }}/images/20120717_071954_HDR.jpg" ></a>
+  <img src="{{ site.url }}/images/20120717_071954_HDR.jpg" ></a>
   <figcaption>Potatoes up front and the new green house in the rear.</figcaption>
 </figure>
 
 <figure>
-  <a href="{{ site.url }}/images/20120717_072112_HDR.jpg" ></a>
+  <img src="{{ site.url }}/images/20120717_072112_HDR.jpg" ></a>
   <figcaption>Jane hiding in the corn.</figcaption>
 </figure>
 
 <figure>
-  <a href="{{ site.url }}/images/20120717_071945_HDR.jpg" ></a>
+  <img src="{{ site.url }}/images/20120717_071945_HDR.jpg" ></a>
   <figcaption>Squash and bamboo supports.</figcaption>
 </figure>
 
 <figure>
-  <a href="{{ site.url }}/images/20120717_071918_HDR.jpg" ></a>
+  <img src="{{ site.url }}/images/20120717_071918_HDR.jpg" ></a>
   <figcaption>Lettuce!</figcaption>
 </figure>
 
 <figure>
-  <a href="{{ site.url }}/images/20120717_071831_HDR.jpg" ></a>
+  <img src="{{ site.url }}/images/20120717_071831_HDR.jpg" ></a>
   <figcaption>Corn with beans and squash beyond.</figcaption>
 </figure>
