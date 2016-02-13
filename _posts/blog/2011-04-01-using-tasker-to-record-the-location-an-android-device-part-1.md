@@ -2,7 +2,6 @@
 id: 33
 title: 'Tasker and Recording the Location of an Android Device [Part 1]'
 date: 2011-04-01T15:57:38+00:00
-author: William S Godfrey
 layout: post
 guid: http://www.williamsgodfrey.com/?p=33
 permalink: /using-tasker-to-record-the-location-an-android-device-part-1/
