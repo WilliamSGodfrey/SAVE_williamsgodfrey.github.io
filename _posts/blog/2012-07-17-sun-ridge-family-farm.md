@@ -13,7 +13,7 @@ tags:
   - Farm
   - Nevada City
   - Sun Ridge
-excerpt: 
+excerpt: ""
 comments: true
 share: true
 ---
