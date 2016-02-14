@@ -33,7 +33,7 @@ I have always been intrigued with the idea of one&#8217;s location history, i.e.
 Fast forward about 23 years and I know find myself with a multitude of products available to do exactly what 4 year old me. For example, in 2009, [while riding my bike across the country](http://bikeandbuild2009.wordpress.com/), I attempted to use [MotionX GPS](http://itunes.apple.com/us/app/motionx-gps/id299949744?mt=8) on my iPhone3G to record the route we took. Unfortunately, at that point MotionX GPS was a relatively young piece of software and I found that it ate through my battery power incredibly quickly. (I think I ended up with less than 40% of the total 3,800 mile route recorded.)
 
 <figure>
-  <img src="{{ site.url }}/images/Sailing_Practice-300x300.jpg" >
+  <img src="{{ site.url }}/images/Sailing_Practice.jpg" >
   <figcaption>Recording a GPS track during sailing practice on a friend's boat.</figcaption>
 </figure>
 
