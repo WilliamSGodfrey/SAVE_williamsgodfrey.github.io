@@ -57,10 +57,10 @@ In the writeup that follows, I assume that the reader is familiar with the [Task
 All our variables are now set up and the only thing left to do is report them. I found having the phone automatically tweet it's location to [a 'locked' Twitter account](http://twitter.com/#!/wsglocation) works best for me. I was originally storing the phone's location to a local text file but, after leaving my phone at work one night, realized that when I do that, all the data is on the phone. If the phone were to be lost or stolen, there would be no way of tracking it using this Tasker Profile. By tweeting to a locked twitter account, I can log in and see where the phone is, remotely, while still keeping the data private.
 * Select **Phone** from the 'Select Action Category' menu and then **Send SMS** from the 'Select Phone Action.' In the 'Number' field enter "40404". This is Twitters number for mobile tweets. I will go into more depth in a future post about integrating Twitter and your mobile device. In the 'Message' field enter "GPS Loc: `%LOC`, GPS Acc: `%LOCACC` ft, GPS Age: `%GPS_AGE` min". See photo.
 <figure>
-  <img src="{{ site.url }}/images/SendSMSdefine-1024x567.png" >
+  <img src="{{ site.url }}/images/SendSMSdefine.png" >
   <figcaption>Define the send SMS function.</figcaption>
 </figure>
-* And finally, select **Phone** from the 'Select Action Category' menu and then**Send SMS** from the 'Select Phone Action' again. In the 'Number' field enter "40404", in the 'Message' field enter "Wifi Loc: _%LOCN_, Wifi Loc Acc: _%LOCNACC_ ft, Wifi fix Age: _%NET_AGE_ min".
+* And finally, select **Phone** from the 'Select Action Category' menu and then **Send SMS** from the 'Select Phone Action' again. In the 'Number' field enter "40404", in the 'Message' field enter "Wifi Loc: `%LOCN`, Wifi Loc Acc: `%LOCNACC` ft, Wifi fix Age: `%NET_AGE` min".
 
 ### Using the Profile
 
