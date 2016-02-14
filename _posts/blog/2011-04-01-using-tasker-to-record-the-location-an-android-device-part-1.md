@@ -18,7 +18,12 @@ tags:
   - Stolen Phone
   - Tasker
   - Track
+excerpt: "Part 1 of a 2 part series discussing the use of the Tasker application to record the location of a device running Google's Android mobile OS."
+comments: true
+share: true
 ---
+
+
 <span style="color: #808080;"><em>[This is Part 1 of a 2 part series discussing the use of the Tasker application to record the location of a device running Google&#8217;s Android mobile OS. This part discusses what lead me to use the Tasker application; <a href="http://www.williamsgodfrey.com//using-tasker-to-record-the-location-an-android-device-part-2/">Part 2</a> discusses <em>how to set up the Tasker profile </em>and my first impressions.]</em></span>
 
 ### Why Tasker?
@@ -27,9 +32,10 @@ I have always been intrigued with the idea of one&#8217;s location history, i.e.
 
 Fast forward about 23 years and I know find myself with a multitude of products available to do exactly what 4 year old me. For example, in 2009, [while riding my bike across the country](http://bikeandbuild2009.wordpress.com/), I attempted to use [MotionX GPS](http://itunes.apple.com/us/app/motionx-gps/id299949744?mt=8) on my iPhone3G to record the route we took. Unfortunately, at that point MotionX GPS was a relatively young piece of software and I found that it ate through my battery power incredibly quickly. (I think I ended up with less than 40% of the total 3,800 mile route recorded.)
 
-<div style="float: right;">
-  <a href="http://goo.gl/maps/xZ0Z"><img class="size-full wp-image-40 " style="margin: 5px;" title="Sailing Practice Track" alt="Sailing Practice Track" src="http://www.williamsgodfrey.com/wp-content/uploads/2011/04/Sailing_Practice.jpg" width="298" height="298" srcset="http://www.williamsgodfrey.com/wp-content/uploads/2011/04/Sailing_Practice-150x150.jpg 150w, http://www.williamsgodfrey.com/wp-content/uploads/2011/04/Sailing_Practice-300x300.jpg 300w, http://www.williamsgodfrey.com/wp-content/uploads/2011/04/Sailing_Practice.jpg 622w" sizes="(max-width: 298px) 100vw, 298px" /></a>
-</div>
+<figure>
+  <img src="{{ site.url }}/images/Sailing_Practice-300x300.jpg" >
+  <figcaption>Recording a GPS track during sailing practice on a friend's boat.</figcaption>
+</figure>
 
 In 2010, I bought a Motorola Droid X and promptly began using Google&#8217;s [My Tracks](http://mytracks.appspot.com/){.broken_link} to record my bike rides/sailing trips/random trips around town. I found that the software worked much better than MotionX GPS worked on my iPhone; it tended to be easier on my battery and the GPS fix was more accurate and consistent. I sailed from Chicago, IL to New Buffolo, MI during the summer of 2010, a trip of over 10 hours, and the phone&#8217;s battery just barely held up the entire way. The image to the right shows how accurate My Tracks was during a sailing practice in June, 2010.
 

@@ -15,7 +15,9 @@ tags:
   - Location
   - Stolen Phone
   - Tasker
-excerpt: ""
+excerpt: "Part 2 of a 2 part series discussing the use of the Tasker application to record the location of a device running Google's Android mobile OS."
+comments: true
+share: true
 ---
 
 _[This is Part 2 of a 2 part series discussing the use of the Tasker application to record the location of a device running Google's Android mobile OS. This part discusses how to set up the Tasker profile and my first impressions [Part 1](http://www.williamsgodfrey.com/using-tasker-to-record-the-location-an-android-device-part-1/) discusses what lead me to use the Tasker application.]_
