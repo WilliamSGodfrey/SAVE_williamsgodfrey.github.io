@@ -7,6 +7,13 @@ logo: #favicon-32x32.png
 search: true
 url: http://williamsgodfrey.com
 
+# Resume settings
+resume_avatar:                  "false"
+resume_name:                    "William S Godfrey"
+resume_title:                   "Structural Analyst"
+resume_contact_email:
+  "will@williamsgodfrey.com"
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
