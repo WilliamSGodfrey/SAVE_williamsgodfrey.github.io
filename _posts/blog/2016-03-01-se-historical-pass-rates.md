@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      A new look via Jekyll
+title:      Historical SE Exam Pass Rates
 date:       2016-03-01 05:39:00
 excerpt:    "Historical pass rates for the 16-hour Structural Engineering (SE) licensing exam."
 categories: structural engineering
