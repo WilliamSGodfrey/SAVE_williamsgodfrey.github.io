@@ -25,7 +25,7 @@ So, as I prepare to (re)take the lateral portion of the Structural Engineering (
 | April 2014   |  45% / 26%   | 43% / 37%   |
 |----
 | October 2014   | 41% / 24% | 40% / 31%   |  
-| April 2015[^1]   |  ?% / ?%   | 43% / 32%   |
+| April 2015[^1]   |  -% / -%   | 43% / 32%   |
 |----
 | October 2015   | 58% / 42% | 35% / 28%   |  
 | April 2016   |  -% / -%   | -% / -%   |
