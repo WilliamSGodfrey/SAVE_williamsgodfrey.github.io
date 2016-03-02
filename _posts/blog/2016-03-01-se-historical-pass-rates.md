@@ -14,21 +14,20 @@ So, as I prepare to (re)take the lateral portion of the Structural Engineering (
 ### Historical SE Exam Pass Rates
 
 | Date | Vertical | Lateral |
-|:--------|:-------:|--------:|
+|:--------|:-------:|:--------:|
 | October 2011   | 47% / 30%   | 35% / 25%  |
 | April 2012   | 45% / 34%   | 46% / 40%   |
-|----
 | October 2012   | 43% / 30% | 25% / 16%   |  
 | April 2013   |  52% / 34%   | 41% / 42%   |
-|----
 | October 2013   | 50% / 34% | 38% / 43%   |  
 | April 2014   |  45% / 26%   | 43% / 37%   |
-|----
 | October 2014   | 41% / 24% | 40% / 31%   |  
 | April 2015[^1]   |  -% / -%   | 43% / 32%   |
-|----
 | October 2015   | 58% / 42% | 35% / 28%   |  
 | April 2016   |  -% / -%   | -% / -%   |
+|  |  |  |
+| Average  | 48% / 42% | 38% / 33% |
+Std. Dev. | 5.5% / 5.6% | 6.3% / 8.9% |
 {: .table}
 
 ---
