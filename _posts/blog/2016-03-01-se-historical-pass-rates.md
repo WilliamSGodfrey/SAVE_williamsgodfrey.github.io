@@ -27,8 +27,9 @@ So, as I prepare to (re)take the lateral portion of the Structural Engineering (
 | April 2016   |  -% / -%   | -% / -%   |
 {: .table}
 
-|  |  |  |
+
 | Average  | 48% / 42% | 38% / 33% |
+|:--------|:-------:|:--------:|
 Std. Dev. | 5.5% / 5.3% | 6.3% / 8.9% |
 {: .table}
 ---
