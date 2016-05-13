@@ -25,10 +25,12 @@ So, as I prepare to (re)take the lateral portion of the Structural Engineering (
 | April 2015   |  53% / 34%[^1]   | 43% / 32%   |
 | October 2015   | 58% / 42% | 35% / 28%   |  
 | April 2016   |  -% / -%   | -% / -%   |
+{: .table}
+
 |  |  |  |
 | Average  | 48% / 42% | 38% / 33% |
 Std. Dev. | 5.5% / 5.3% | 6.3% / 8.9% |
-
+{: .table}
 ---
 [^1]: Many thanks to Andy at http://structuralengineerhq.com/ for the numbers for these values
 
