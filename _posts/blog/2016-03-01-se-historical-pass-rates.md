@@ -29,8 +29,7 @@ So, as I prepare to (re)take the lateral portion of the Structural Engineering (
 
 
 | Average  | 48% / 42% | 38% / 33% |
-|:--------|:-------:|:--------:|
-Std. Dev. | 5.5% / 5.3% | 6.3% / 8.9% |
+|Std. Dev. | 5.5% / 5.3% | 6.3% / 8.9% |
 {: .table}
 ---
 [^1]: Many thanks to Andy at http://structuralengineerhq.com/ for the numbers for these values
