@@ -2,7 +2,7 @@
 layout:     post
 title:      It was foggy today so I took a picture
 date:       2016-05-11 08:39:00
-excerpt:    "Two actually. I took wo pictures."
+excerpt:    "Two actually. I took two pictures."
 categories: picture
 tags:
   - Nexus 6 camera
