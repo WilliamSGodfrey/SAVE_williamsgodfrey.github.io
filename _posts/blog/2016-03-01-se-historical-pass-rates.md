@@ -30,6 +30,6 @@ So, as I prepare to (re)take the lateral portion of the Structural Engineering (
 |Std. Dev. | 5.5% / 5.3% | 6.3% / 8.9% |
 {: .table}
 ---
-[^1]: Many thanks to Andy at http://structuralengineerhq.com/ for the numbers for these values
+[^1]: Thanks to Andy at http://structuralengineerhq.com/ for the pass rates for this exam.
 
 
