@@ -10,7 +10,7 @@ image:
 
 Hi, I'm William S. Godfrey. Most people just call me Will.
 
-I am a structural analyst based in the great city of Chicago. I have over 6 years of experience in the analysis and design of complex structures subjected to extreme loading conditions. My educational and professional background has focused on stress analysis using analytical mechanics (static and dynamic) and its practical application as it pertains to structural analysis and design of the built environment. Some notable projects that I have had the fortune of being part of include:  
+I am a licensed structural engineer based in the great city of Chicago. I have over 6 years of experience in the analysis and design of complex structures subjected to extreme loading conditions. My educational and professional background has focused on stress analysis using analytical mechanics (static and dynamic) and its practical application as it pertains to structural analysis and design of the built environment. Some notable projects that I have had the fortune of being part of include:  
 
  * [Indiana State Fair Commission, August 13, 2011, Collapse Incident Investigation and Report](http://www.thorntontomasetti.com/projects/indiana_state_fair_commission_collapse_incident/)
  * Structural design development of the nuclear island safety related structures for the NRG South Texas Project Units 3 & 4
