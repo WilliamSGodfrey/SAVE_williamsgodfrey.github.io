@@ -32,7 +32,7 @@ So, as I prepare to (re)take the lateral portion of the Structural Engineering (
 {: .table}
 
 <figure>
-  <img src="{{ site.url }}/images/IMG_20160511_074009.jpg" alt="Historical SE Pass Rates">
+  <img src="{{ site.url }}/images/SEPass.png" alt="Historical SE Pass Rates">
 	<figcaption>Historical pass rates for the SE Exam since 2011 showing the general trend in higher pass rates.</figcaption>
 </figure>
 
