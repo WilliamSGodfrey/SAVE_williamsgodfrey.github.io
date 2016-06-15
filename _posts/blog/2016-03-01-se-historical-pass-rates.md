@@ -7,13 +7,14 @@ categories: structural engineering
 tags:
   - SE Exam
 comments: true
+share: true
 ---
 
 So, as I prepare to (re)take the lateral portion of the Structural Engineering (SE) licensing exam this April, I found myself curious about the historical passrates for the exam. After a ton of digging and realizing that there isn't a single source (easily found via Google), I've decided to list the historical pass rates for the exam here. Ideally I will keep this up to date.
 
 ### Historical SE Exam Pass Rates
 
-| Date | Vertical | Lateral |
+| Date | Vertical (First Time/Repeat) | Lateral (First Time/Repeat) |
 |:--------|:-------:|:--------:|
 | October 2011   | 47% / 30%   | 35% / 25%  |
 | April 2012   | 45% / 34%   | 46% / 40%   |
@@ -23,13 +24,21 @@ So, as I prepare to (re)take the lateral portion of the Structural Engineering (
 | April 2014   |  45% / 26%   | 43% / 37%   |
 | October 2014   | 41% / 24% | 40% / 31%   |  
 | April 2015   |  53% / 34%[^1]   | 43% / 32%   |
-| October 2015   | 58% / 42% | 35% / 28%   |  
-| April 2016   |  -% / -%   | -% / -%   |
+| October 2015[^2]   | 58% / 42% | 35% / 28%   |  
+| April 2016[^3]   |  49% / 31%  | 50% / 37%   |
 |          |          |          |
 | Average  | 48% / 42% | 38% / 33% |
 |Std. Dev. | 5.5% / 5.3% | 6.3% / 8.9% |
 {: .table}
+
+<figure>
+  <img src="{{ site.url }}/images/IMG_20160511_074009.jpg" alt="Historical SE Pass Rates">
+	<figcaption>Historical pass rates for the SE Exam since 2011 showing the general trend in higher pass rates.</figcaption>
+</figure>
+
+
 ---
 [^1]: Thanks to Andy at http://structuralengineerhq.com/ for the pass rates for this exam.
-
+[^2]: I passed the Vertical exam, failed the Lateral Exam.
+[^3]: I passed the Lateral exam.
 
