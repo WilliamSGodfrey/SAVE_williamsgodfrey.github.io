@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/williamsgodfrey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://williamsgodfrey.com
+  * I am williamsgodfrey (https://keybase.io/williamsgodfrey) on keybase.
+  * I have a public key with fingerprint D406 5228 6C4D 20D7 41C9  089E 2FB0 49C2 7C34 688C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013ebf02857f458eff3fd658801e567853e499dbc3678b822ad1e1f2448d871d410a",
+            "fingerprint": "d40652286c4d20d741c9089e2fb049c27c34688c",
+            "host": "keybase.io",
+            "key_id": "2fb049c27c34688c",
+            "kid": "01013ebf02857f458eff3fd658801e567853e499dbc3678b822ad1e1f2448d871d410a",
+            "uid": "830b24ad0e626f45babffa1541b01b19",
+            "username": "williamsgodfrey"
+        },
+        "service": {
+            "hostname": "williamsgodfrey.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1483715325,
+    "expire_in": 157680000,
+    "prev": "92d2fd26206289dbbc41615cf04a04e1c68438920347fbcc6929bd5ea05d1336",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMImAnicrZJbSBVBGMfXS0XaCaEiIh90KbKSmpmd3Z01PEW+lBYovYgIx92dmdPi
+OWdPe1YruqH2YEYP9mRFFmZEBIl1DMOikhAjyYei60NqpC8R0YUu2mVW6s3H5mWY
+mf//N9/357sfypJyMrKyLteisv7mjIf3LjZI1e61nwdky6X75ZIDcj2b3ViMspQf
+qXeoXCIDCKDCLA4QUXWOVcI4VzjVVEIAZKqmE1Vh2DCoZSviYBGETAoZ5AhjQokO
+KYbAlItl7iSizEt6TsIXWIqBpiJENBtTBKiOoW0AYjDELYANG+m2gjVCbGHc7aYC
+hyjOMlNsg+OKO3GIzJY3h/4/190wiyMKsBA2KWAa0gTOMi3OTahiaAFoQSMQppiX
+MONMqPc6sZhjxlNRl3JPhHqoWBaPjY7NgnyDhuYWbrDduCAlPdd3bTcmBLt9P1kS
++P39yVkDsyJ/URHLSVARqjA0Mi/luAm5BAql7TsBG2Ki6FBVkFoss31Jx2MRJ1Co
+ukaAWME3rFEgDUQRp0hDQENE5GHZGGpQtTnAJsAM2hrBCjEQULDOLdvWDGRYVGUm
+UClUFE0OmtuTcAVbEXWaUcFMOdGE6Td4TD40eLc2W8rIkebPywymTcpZmPdvBi+O
+L/idWvw4Y/pT6YwWWtpVkx8Nn9veM38Jar7zpVta2fiGT2fPXCnty1r2dni0s2Zw
+KN22as23z013ndacPV/jfYeTWwovVGSvTZ+61bt++6NWWLTazCs/WM7TdRXdlb/W
+Fi0cy716tuP5k3c3d3ZPPZg6WTdcVeB//JEbXvT068douH1TxfTR4QG2rqt6cKBd
+Ujtb75xfPn5Byh+p2vzjdktB/qXRl/ztyMRk77YW3Ru60fTh0tYyBYV6yt7fuJJ2
+O8tPhGISeHG5JTRxBpw58h0njp/OXLzi4FDy8at4Jza7dhx7XbOxt+LlTGX4xa7+
+cHroVOGtjoHJ+5XPqq7LY21Sad0fD+JFiw==
+=M03F
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/williamsgodfrey
+
+==================================================================
