@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 title: about me
 excerpt: ""
 modified: 2014-08-08T19:44:38.564948-04:00
-image: /images/godfrey_01_MM41563.jpg
+image:
 ---
 
 ### Me
