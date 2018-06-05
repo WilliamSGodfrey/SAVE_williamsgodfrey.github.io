@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Historical SE Exam Pass Rates
-date:       2016-03-01 05:39:00
+date:       2018-06-05 011:46:00
 excerpt:    "Historical pass rates for the 16-hour Structural Engineering (SE) licensing exam."
 categories: structural engineering
 tags:
@@ -27,9 +27,13 @@ So, as I prepare to (re)take the lateral portion of the Structural Engineering (
 | April 2015   |  53% / 34%[^1]   | 43% / 32%   |
 | October 2015[^2]   | 58% / 42% | 35% / 28%   |  
 | April 2016[^3]   |  49% / 31%  | 50% / 37%   |
+| October 2016   | 45% / 23% | 38% / 29%   |  
+| April 2017   |  51% / 25%   | 38% / 25%   |
+| October 2017   | 48% / 37% | 31% / 28%   |  
+| April 2018   |  51% / 39%   | 38% / 25%   |
 |          |          |          |
-| Average  | 48% / 42% | 38% / 33% |
-|Std. Dev. | 5.5% / 5.3% | 6.3% / 8.9% |
+| Average  | 48% / 31% | 38% / 31% |
+|Std. Dev. | 3.8% / 5.0% | 7.3% / 7.8% |
 {: .table}
 
 <figure>
