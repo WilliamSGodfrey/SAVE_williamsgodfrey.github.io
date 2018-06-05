@@ -10,7 +10,7 @@ image:
 
 Hi, I'm William S. Godfrey. Most people just call me Will.
 
-I am a licensed structural engineer based in the great city of Chicago. I have over 6 years of experience in the analysis and design of complex structures subjected to extreme loading conditions. My educational and professional background has focused on stress analysis using analytical mechanics (static and dynamic) and its practical application as it pertains to structural analysis and design of the built environment. Some notable projects that I have had the fortune of being part of include:  
+I am a licensed structural engineer based in the great city of Chicago. I have over 10 years of experience in the analysis, design, and investigation of new and existing structures. My educational and professional background has focused on stress analysis using analytical mechanics (static and dynamic) and its practical application as it pertains to structural analysis and design of the built environment. Some notable projects that I have had the fortune of being part of include:  
 
  * [Indiana State Fair Commission, August 13, 2011, Collapse Incident Investigation and Report](http://www.thorntontomasetti.com/projects/indiana_state_fair_commission_collapse_incident/)
  * Structural design development of the nuclear island safety related structures for the NRG South Texas Project Units 3 & 4
@@ -18,7 +18,7 @@ I am a licensed structural engineer based in the great city of Chicago. I have o
  * Physical Plant Security structural design development and detailed design for the [Barakah Nuclear Power Plant](https://en.wikipedia.org/wiki/Barakah_nuclear_power_plant)
  * [Chico Highschool Lincoln Center](http://www.skwarchitects.com/portfolio/education/chico-high-school-cafeteria-field-house) - I stepped into this project shortly after the schematic design phase was completed. My role consisted of nearly 100% of the design development and detailed design which included the design of all steel, concrete, and masonry associated with the project. I also performed 100% of the BIM modeling using Revit Structure which I then used to produce the structural design deliverables (construction documents, specifications, etc.). I was fortunate to work with a very inspiring and very trusting boss.
 
-When I'm not working I enjoy spending time with with my wife, dog, and two cats. I also ride my bike a lot, obsess over craft beer, look at maps, and putz around with python & R.
+When I'm not working I enjoy spending time with with my wife, dog, and two cats. I also like to 'jog', ride my bike a lot, obsess over craft beer, look at maps, and putz around with python & R.
 
 If you would like to do the social media thing, look me up on any of the social platforms listed below.
 
