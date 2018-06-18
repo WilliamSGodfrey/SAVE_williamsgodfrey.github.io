@@ -30,10 +30,10 @@ So, as I prepared to (re)take the lateral portion of the Structural Engineering 
 | October 2016   | 45% / 23% | 38% / 29%   |  
 | April 2017   |  51% / 25%   | 38% / 25%   |
 | October 2017   | 48% / 37% | 31% / 28%   |  
-| April 2018   |  -% / -%   | -% / -%   |
-|          |          |          |
-| Average  | 48% / 30% | 38% / 32% |
-|Std. Dev. | 3.9% / 4.6% | 7.6% / 7.9% |
+| April 2018   |  40% / 18%   | 29% / 19%   |
+|              |             |             |
+| Mean         | 47% / 30%   | 38% / 31%   |
+| Std. Dev.    | 4.3% / 4.6% | 7.7% / 8.3% |
 {: .table}
 
 <figure>
