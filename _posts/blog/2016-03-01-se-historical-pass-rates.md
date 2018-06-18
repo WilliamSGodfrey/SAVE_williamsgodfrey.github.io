@@ -11,6 +11,8 @@ share: true
 
 ---
 
+_Updated June 18, 2018_
+
 So, as I prepared to (re)take the lateral portion of the Structural Engineering (SE) licensing exam in April 2016, I found myself curious about the historical passrates for the exam. After a ton of digging and realizing that there wasn't a single source (easily found via Google), I decided to list the historical pass rates for the exam here. Ideally I will keep this up to date.
 
 ### Historical SE Exam Pass Rates
