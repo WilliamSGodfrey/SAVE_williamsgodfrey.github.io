@@ -18,7 +18,7 @@ I am a licensed structural engineer based in Chicago. I have over 10 years of ex
  * Physical Plant Security structural design development and detailed design for the [Barakah Nuclear Power Plant](https://en.wikipedia.org/wiki/Barakah_nuclear_power_plant)
  * [Chico Highschool Lincoln Center](https://coactdesignworks.com/project/5/chico-high-school-lincoln-center/2/Education/0/Filter) - I stepped into this project shortly after the schematic design phase was completed. My role consisted of nearly 100% of the design development and detailed design which included the design of all steel, concrete, and masonry associated with the project. I also performed 100% of the BIM modeling using Revit Structure which I then used to produce the structural design deliverables (construction documents, specifications, etc.). I was fortunate to work with a very inspiring and very trusting boss.
 
-When I'm not working I enjoy spending time with with my wife, dog, and two cats. I also like to 'jog', ride my bike, look at maps, and prentend like I can create useful toops with python & R.
+When I'm not working, I enjoy spending time with with my wife and dog. I also like to 'jog', ride my bike, look at maps, and prentend like I can create useful toops with python & R.
 
 If you would like to do the social media thing, look me up on any of the social platforms listed below.
 
