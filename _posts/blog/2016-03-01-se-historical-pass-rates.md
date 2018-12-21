@@ -2,18 +2,20 @@
 layout:     post
 title:      Historical SE Exam Pass Rates
 date:       2015-06-09 015:46:00
-excerpt:    "Historical pass rates for the 16-hour Structural Engineering (SE) licensing exam."
+excerpt:    "Historical pass rates for the 16-hour NCEES Structural Engineering (SE) licensing exam."
 categories: structural engineering
 tags:
   - SE Exam
+  - Structural Engineering Exam
+  - NCEES
 comments: true
 share: true
 
 ---
 
-_Updated June 18, 2018_
+_Updated December 21, 2018_
 
-So, as I prepared to (re)take the lateral portion of the Structural Engineering (SE) licensing exam in April 2016, I found myself curious about the historical passrates for the exam. After a ton of digging and realizing that there wasn't a single source (easily found via Google), I decided to list the historical pass rates for the exam here. Ideally I will keep this up to date.
+As I prepared to retake the lateral portion of the Structural Engineering licensing exam in April 2016, I found myself curious about the historical pass rate for the exam. After some digging and I found there wasn't a single source compiling historical SE exam pass rates. So, I decided to compile my own.
 
 ### Historical SE Exam Pass Rates
 
@@ -33,9 +35,10 @@ So, as I prepared to (re)take the lateral portion of the Structural Engineering 
 | April 2017   |  51% / 25%   | 38% / 25%   |
 | October 2017   | 48% / 37% | 31% / 28%   |  
 | April 2018   |  40% / 18%   | 29% / 19%   |
+| October 2018   |  36% / 21%   | 36% / 38%   |
 |              |             |             |
-| Mean         | 47% / 30%   | 38% / 31%   |
-| Std. Dev.    | 4.3% / 4.6% | 7.7% / 8.3% |
+| Mean         | 47% / 29%   | 38% / 31%   |
+| Std. Dev.    | 5.1% / 5.8% | 7.4% / 8.2% |
 {: .table}
 
 <figure>
