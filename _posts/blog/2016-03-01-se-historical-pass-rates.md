@@ -15,7 +15,11 @@ share: true
 
 _Updated December 21, 2018_
 
-As I prepared to retake the lateral portion of the Structural Engineering licensing exam in April 2016, I found myself curious about the historical pass rate for the exam. After some digging and I found there wasn't a single source compiling historical SE exam pass rates. So, I decided to compile my own.
+As I prepared to retake the lateral portion of the Structural Engineering licensing exam in April 2016, I found myself curious about the historical pass rates for the exam. After some digging online, I found there wasn't a single source that provided that information and decided to share my findings here.
+
+All information below was obtained from the NCEES website following the release of scores unless otherwise noted. This table is updated twice a year.
+
+If you have data you'd like to share with me so that I can include it here, please get in touch via email.
 
 ### Historical SE Exam Pass Rates
 
