@@ -47,7 +47,7 @@ If you have data you'd like to share with me so that I can include it here, plea
 {: .table}
 
 <figure>
-  <img src="{{ site.url }}/images/SEPass.PNG" alt="Historical SE Pass Rates">
+  <img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuMU1aiY6Q0e5UfA2wMPCOrxvhjBoxbR9-60YTr1pTXj60iOYZblMKlwprQ-tFL6L9bgvi-oBX616f/pubchart?oid=645378985&format=image" alt="Historical SE Pass Rates">
 	<figcaption>Historical pass rates for the SE Exam since 2011 showing the general trend in pass rates.</figcaption>
 </figure>
 
