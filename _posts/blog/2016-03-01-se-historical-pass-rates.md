@@ -17,7 +17,7 @@ _Updated June 18, 2019_
 
 As I prepared to retake the lateral portion of the Structural Engineering licensing exam in April 2016, I found myself curious about the historical pass rates for the exam. After some digging online, I found there wasn't a single source that provided that information and decided to share my findings here.
 
-All information below was obtained from the NCEES website following the release of scores unless otherwise noted. This table is updated twice a year.
+All information provided here was obtained directly from NCEES unless otherwise noted. This table is updated twice a year.
 
 If you have data you'd like to share with me so that I can include it here, please get in touch via email.
 
