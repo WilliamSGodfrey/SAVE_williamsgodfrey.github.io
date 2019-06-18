@@ -40,9 +40,10 @@ If you have data you'd like to share with me so that I can include it here, plea
 | October 2017   | 48% / 37% | 31% / 28%   |  
 | April 2018   |  40% / 18%   | 29% / 19%   |
 | October 2018   |  36% / 21%   | 36% / 38%   |
+| April 2019   |    46% / 34%   | 39% / 26%  |
 |              |             |             |
 | Mean         | 47% / 29%   | 38% / 31%   |
-| Std. Dev.    | 5.1% / 5.8% | 7.4% / 8.2% |
+| Std. Dev.    | 4.9% / 5.7% | 7.2% / 8.1% |
 {: .table}
 
 <figure>
