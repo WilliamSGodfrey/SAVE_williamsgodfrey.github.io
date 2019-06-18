@@ -13,7 +13,7 @@ share: true
 
 ---
 
-_Updated December 21, 2018_
+_Updated June 18, 2019_
 
 As I prepared to retake the lateral portion of the Structural Engineering licensing exam in April 2016, I found myself curious about the historical pass rates for the exam. After some digging online, I found there wasn't a single source that provided that information and decided to share my findings here.
 
