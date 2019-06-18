@@ -8,15 +8,7 @@ image:
 
 ### Me
 
-Hi, I'm William S. Godfrey but most people just call me Will.
-
-I am a licensed structural engineer based in Chicago. I have over 10 years of experience in the analysis, design, and investigation of new and existing structures. My educational and professional background has focused on stress analysis using analytical mechanics (static and dynamic) and its practical application as it pertains to the built environment. Some notable projects that I have been part of include:  
-
- * [Indiana State Fair Commission, August 13, 2011, Collapse Incident Investigation and Report](http://www.thorntontomasetti.com/projects/indiana_state_fair_commission_collapse_incident/)
- * Structural design development of the nuclear island safety related structures for the NRG South Texas Project Units 3 & 4
- * [Site-specific seismic analysis of safety related nuclear structures for DTE Enrico Fermi Unit 3](http://www.sargentlundy.com/projects/enrico-fermi-u3-project/)
- * Physical Plant Security structural design development and detailed design for the [Barakah Nuclear Power Plant](https://en.wikipedia.org/wiki/Barakah_nuclear_power_plant)
- * [Chico Highschool Lincoln Center](https://coactdesignworks.com/project/5/chico-high-school-lincoln-center/2/Education/0/Filter) - I stepped into this project shortly after the schematic design phase was completed. My role consisted of the lion's share of the design development and detailed design which included the design of all steel, concrete, and masonry associated with the project. I also performed 100% of the BIM modeling using Revit Structure which I then used to produce the structural design deliverables (construction documents, specifications, etc.). I was fortunate to work with a very inspiring and very trusting boss.
+I am a licensed structural engineer based in Chicago. I have over 10 years of experience in the analysis, design, and investigation of new and existing structures. My educational and professional background has focused on stress analysis using analytical mechanics (static and dynamic) and its practical application as it pertains to the built environment.
 
 When I'm not working, I enjoy spending time with with my wife and dog. I also like to ['jog', ride my bike,](https://www.strava.com/athletes/374453) look at maps, and prentend like I can create useful tools with Python & R.
 
