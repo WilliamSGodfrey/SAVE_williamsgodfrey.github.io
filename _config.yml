@@ -11,6 +11,7 @@ url: http://williamsgodfrey.com
 
 permalink:   /:categories/:title/
 markdown:    kramdown
+theme: minima
 highlighter: rouge
 sass:
   sass_dir: _sass
