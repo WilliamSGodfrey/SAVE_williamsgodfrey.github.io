@@ -1,13 +1,16 @@
 ---
 layout:     post
-title:      Historical SE Exam Pass Rates
+title:      Historical NCEES SE Exam Pass Rates
 date:       2015-06-09 015:46:00
-excerpt:    "Historical pass rates for the 16-hour NCEES Structural Engineering (SE) licensing exam."
+excerpt:    "Historical pass rates for the 16-hour NCEES Structural Engineering (SE) licensing exam. Updated twice a year."
 categories: structural engineering
 tags:
   - SE Exam
   - Structural Engineering Exam
   - NCEES
+  - SE Exam pass rate
+  - SE Exam results
+  - NCEES SE Exam
 comments: true
 share: true
 
@@ -15,7 +18,7 @@ share: true
 
 _Updated June 18, 2019_
 
-As I prepared to retake the lateral portion of the Structural Engineering licensing exam in April 2016, I found myself curious about the historical pass rates for the exam. After some digging online, I found there wasn't a single source that provided that information and decided to share my findings here.
+As I prepared to retake the lateral portion of the Structural Engineering licensing exam in April 2016, I found myself curious about the historical pass rates for the exam. After doing some digging online, I found there wasn't a single source that provided that information and decided to collect and share my own findings.
 
 All information provided here was obtained directly from NCEES unless otherwise noted. This table is updated twice a year.
 
