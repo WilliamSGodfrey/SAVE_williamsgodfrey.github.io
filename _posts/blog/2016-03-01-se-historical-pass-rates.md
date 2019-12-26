@@ -58,6 +58,6 @@ If you have data you'd like to share with me so that I can include it here, plea
 
 ---
 [^1]: Thanks to Andy at http://structuralengineerhq.com/ for the pass rates for this exam.
-[^2]: I passed the Vertical exam, failed the Lateral Exam.
-[^3]: I passed the Lateral exam.
+[^2]: I passed Vertical.
+[^3]: I passed Lateral.
 
