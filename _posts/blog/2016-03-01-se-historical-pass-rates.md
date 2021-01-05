@@ -49,8 +49,8 @@ If you have data you'd like to share with me so that I can include it here, plea
 | 10/2020   |    45% / 32%   | 33% / 29%  |
 
 |              |             |             |
-| Mean         | 47% / 30%   | 37% / 31%   |
-| Std. Dev.    | 5.4% / 7.2% | 6.9% / 7.9% |
+| Mean         | 46% / 30%   | 37% / 31%   |
+| Std. Dev.    | 5.3% / 6.9% | 6.8% / 7.7% |
 {: .table}
 
 <figure>
