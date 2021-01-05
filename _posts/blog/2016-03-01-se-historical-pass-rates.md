@@ -48,6 +48,7 @@ If you have data you'd like to share with me so that I can include it here, plea
 | 4/2020   |    NO   | EXAM |
 | 10/2020   |    45% / 32%   | 33% / 29%  |
 
+
 |              |             |             |
 | Mean         | 46% / 30%   | 37% / 31%   |
 | Std. Dev.    | 5.3% / 6.9% | 6.8% / 7.7% |
