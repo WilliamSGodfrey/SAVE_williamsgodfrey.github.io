@@ -16,7 +16,7 @@ share: true
 
 ---
 
-_Updated December 26, 2019_
+_Updated January 5, 2020_
 
 As I prepared to retake the lateral portion of the Structural Engineering licensing exam in April 2016, I found myself curious about the historical pass rates for the exam. After doing some digging online, I found there wasn't a single source that provided that information and decided to collect and share my own findings.
 
@@ -45,6 +45,9 @@ If you have data you'd like to share with me so that I can include it here, plea
 | 10/2018   |  36% / 21%   | 36% / 38%   |
 | 4/2019   |    46% / 34%   | 39% / 26%  |
 | 10/2019   |    42% / 18%   | 33% / 28%  |
+| 4/2020   |    NO   | EXAM |
+| 10/2020   |    45% / 32%   | 33% / 29%  |
+
 |              |             |             |
 | Mean         | 47% / 30%   | 37% / 31%   |
 | Std. Dev.    | 5.4% / 7.2% | 6.9% / 7.9% |
