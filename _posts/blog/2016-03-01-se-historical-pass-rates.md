@@ -47,7 +47,7 @@ If you have data you'd like to share with me so that I can include it here, plea
 | 10/2019   |    42% / 18%   | 33% / 28%  |
 | 4/2020   |    NO   | EXAM |
 | 10/2020   |    45% / 32%   | 33% / 29%  |
-
+{: .table}
 
 |              |             |             |
 | Mean         | 46% / 30%   | 37% / 31%   |
