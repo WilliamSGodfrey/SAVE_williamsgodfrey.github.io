@@ -16,11 +16,9 @@ share: true
 
 ---
 
-_Updated January 5, 2020_
+_Updated January 4, 2021_
 
-As I prepared to retake the lateral portion of the Structural Engineering licensing exam in April 2016, I found myself curious about the historical pass rates for the exam. After doing some digging online, I found there wasn't a single source that provided that information and decided to collect and share my own findings.
-
-All information provided here was obtained directly from NCEES unless otherwise noted. This table is updated twice a year.
+All information provided here was obtained directly from NCEES unless otherwise noted. This table is updated twice a year in January and June.
 
 If you have data you'd like to share with me so that I can include it here, please get in touch via email.
 
@@ -36,8 +34,8 @@ If you have data you'd like to share with me so that I can include it here, plea
 | 4/2014   |  45% / 26%   | 43% / 37%   |
 | 10/2014   | 41% / 24% | 40% / 31%   |  
 | 4/2015   |  53% / 34%[^1]   | 43% / 32%   |
-| 10/2015[^2]   | 58% / 42% | 35% / 28%   |  
-| 4/2016[^3]   |  49% / 31%  | 50% / 37%   |
+| 10/2015   | 58% / 42% | 35% / 28%   |  
+| 4/2016   |  49% / 31%  | 50% / 37%   |
 | 10/2016   | 45% / 23% | 38% / 29%   |  
 | 4/2017   |  51% / 25%   | 38% / 25%   |
 | 10/2017   | 48% / 37% | 31% / 28%   |  
@@ -47,6 +45,8 @@ If you have data you'd like to share with me so that I can include it here, plea
 | 10/2019   |    42% / 18%   | 33% / 28%  |
 | 4/2020   |    NO   | EXAM |
 | 10/2020   |    45% / 32%   | 33% / 29%  |
+| 4/2021   |    44% / 31%   | 39% / 31%  |
+| 10/2021   |    40% / 29%   | 24% / 27%  |
 {: .table}
 
 |              |             |             |
@@ -62,6 +62,4 @@ If you have data you'd like to share with me so that I can include it here, plea
 
 ---
 [^1]: Thanks to Andy at http://structuralengineerhq.com/ for the pass rates for this exam.
-[^2]: I passed Vertical.
-[^3]: I passed Lateral.
 
