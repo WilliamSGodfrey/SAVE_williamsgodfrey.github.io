@@ -50,8 +50,8 @@ If you have data you'd like to share with me so that I can include it here, plea
 {: .table}
 
 |              |             |             |
-| Mean         | 46% / 30%   | 37% / 31%   |
-| Std. Dev.    | 5.3% / 6.9% | 6.8% / 7.7% |
+| Mean         | 46% / 30%   | 36% / 30%   |
+| Std. Dev.    | 5.2% / 6.6% | 7.0% / 7.3% |
 {: .table}
 
 <figure>
