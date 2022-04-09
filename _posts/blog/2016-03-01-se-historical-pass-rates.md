@@ -16,7 +16,7 @@ share: true
 
 ---
 
-_Updated January 4, 2021_
+_Updated January 4, 2022_
 
 All information provided here was obtained directly from NCEES unless otherwise noted. This table is updated twice a year in January and June.
 
