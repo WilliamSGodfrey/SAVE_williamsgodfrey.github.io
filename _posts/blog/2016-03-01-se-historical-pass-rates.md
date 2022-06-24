@@ -25,7 +25,7 @@ If you have data you'd like to share with me so that I can include it here, plea
 ### Historical SE Exam Pass Rates
 
 | Date | SE Vertical Forces (First Time / Repeat) | SE Lateral Forces (First Time / Repeat) | Gravity Difficulty Rank | Lateral Difficulty Rank | Overall Difficulty Rank
-|:--------|:-------:|:--------:|
+|:--------|:-------:|:--------:|:--------:|:--------:|:--------:|
 | 10/2011   | 47% / 30%   | 35% / 25%  | 11	|7|	9
 | 4/2012   | 45% / 34%   | 46% / 40%   |13|20|18
 | 10/2012   | 43% / 30% | 25% / 16%   |  9|1|2
