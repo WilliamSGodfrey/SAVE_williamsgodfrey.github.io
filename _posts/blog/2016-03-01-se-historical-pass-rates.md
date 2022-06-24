@@ -50,9 +50,9 @@ If you have data you'd like to share with me so that I can include it here, plea
 | 4/2022    |    36% / 30% | 28% / 26% |5|5|3
 {: .table}
 
-|              |             |             |
-| Mean         | 46% / 30%   | 36% / 30%   |
-| Std. Dev.    | 5.5% / 6.5% | 7.1% / 7.2% |
+|              |             |             |||
+| Mean         | 46% / 30%   | 36% / 30%   |||
+| Std. Dev.    | 5.5% / 6.5% | 7.1% / 7.2% |||
 {: .table}
 
 <figure>
