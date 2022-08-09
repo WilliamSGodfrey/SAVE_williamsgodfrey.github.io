@@ -18,7 +18,7 @@ share: true
 
 _Updated June 24, 2022_
 
-The pass rate information provided here was obtained directly from NCEES unless otherwise noted. The Difficulty Rank metric is an attempt to determine how difficult each day of the exam was relative to every other time the exam has occured since October 2011. For example, the exam with an Overall Difficulty Rank of 1 was the hardest exam since I started keeing track. This metric is derived using the pass rates.
+The 16-hour format of the Structural Engineering exam was introduced in April 2011. Beginning in October of that year, I started recording the pass rates after each exam administration. The information provided here was obtained directly from NCEES unless otherwise noted. I've also calculated a Difficulty Rank metric as an attempt to determine how difficult each exam was relative to every other time the exam was administered. For example, the exam with an Overall Difficulty Rank of 1 was the hardest exam since I started keeing track. This metric is derived using the pass rates.
 
 This table is updated twice a year in January and June.
 
