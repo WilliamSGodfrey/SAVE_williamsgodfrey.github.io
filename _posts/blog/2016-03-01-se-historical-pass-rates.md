@@ -18,7 +18,7 @@ share: true
 
 _Updated June 24, 2022_
 
-The pass rate information provided here was obtained directly from NCEES unless otherwise noted. The Difficulty Rank metric is an attempt to determine how difficult the 2 parts of the exam were relative to every other exam since October 2011. For example, the exam with an Overall Difficulty Rank of 1 was the hardest exam since I started keeing track. This metric is derived using the pass rates.
+The pass rate information provided here was obtained directly from NCEES unless otherwise noted. The Difficulty Rank metric is an attempt to determine how difficult each day of the exam was relative to every other time the exam has occured since October 2011. For example, the exam with an Overall Difficulty Rank of 1 was the hardest exam since I started keeing track. This metric is derived using the pass rates.
 
 This table is updated twice a year in January and June.
 
