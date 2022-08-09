@@ -18,13 +18,15 @@ share: true
 
 _Updated June 24, 2022_
 
-All information provided here was obtained directly from NCEES unless otherwise noted. This table is updated twice a year in January and June.
+The pass rate information provided here was obtained directly from NCEES unless otherwise noted. The Difficulty Rank metric is an attempt to determine how difficult the 2 parts of the exam were relative to every other exam since October 2011. For example, the exam with an Overall Difficulty Rank of 1 was the hardest exam since I started keeing track. This metric is derived using the pass rates.
+
+This table is updated twice a year in January and June.
 
 If you have data you'd like to share with me so that I can include it here, please get in touch via email.
 
-### Historical SE Exam Pass Rates
+### Historical SE Exam Pass Rates and Relative Exam Difficulty
 
-| Date | SE Vertical Forces (First Time / Repeat) | SE Lateral Forces (First Time / Repeat) | Gravity Difficulty Rank | Lateral Difficulty Rank | Overall Difficulty Rank
+| Date | SE Vertical Forces (First Time / Repeat) | SE Lateral Forces (First Time / Repeat) | Vertical Difficulty Rank | Lateral Difficulty Rank | Overall Difficulty Rank
 |:--------|:-------:|:--------:|:--------:|:--------:|:--------:|
 | 10/2011   | 47% / 30%   | 35% / 25%  | 11	|7|	9|
 | 4/2012   | 45% / 34%   | 46% / 40%   |13|20|18|
