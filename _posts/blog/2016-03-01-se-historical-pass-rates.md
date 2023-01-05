@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Historical NCEES SE Exam Pass Rates
-date:       2015-06-09 015:46:00
+date:       2023-01-05 015:46:00
 excerpt:    "Historical pass rates for the 16-hour NCEES Structural Engineering (SE) licensing exam. Updated twice a year."
 categories: structural engineering
 tags:
@@ -16,9 +16,9 @@ share: true
 
 ---
 
-_Updated June 24, 2022_
+_Updated January 5, 2023_
 
-The 16-hour format of the Structural Engineering exam was introduced in April 2011. Beginning in October of that year, I started recording the pass rates after each exam administration. The information provided here was obtained directly from NCEES unless otherwise noted. I've also calculated a Difficulty Rank metric as an attempt to determine how difficult each exam was relative to every other time the exam was administered. For example, the exam with an Overall Difficulty Rank of 1 was the hardest exam since I started keeing track. This metric is derived using the pass rates.
+The 16-hour format of the Structural Engineering exam was introduced in April 2011. Beginning in October of that year, I started recording the pass rates after each exam administration. The information provided here was obtained directly from NCEES unless otherwise noted. I've also calculated a Difficulty Rank metric to quantify how difficult each exam was relative to every other administration of the exam since 2011. The exam with an Overall Difficulty Rank of 1 was the hardest exam since I started keeing track. This metric is derived using the pass rates.
 
 This table is updated twice a year in January and June.
 
@@ -28,33 +28,34 @@ If you have data you'd like to share with me so that I can include it here, plea
 
 | Date | SE Vertical Forces (First Time / Repeat) | SE Lateral Forces (First Time / Repeat) | Vertical Difficulty Rank | Lateral Difficulty Rank | Overall Difficulty Rank
 |:--------|:-------:|:--------:|:--------:|:--------:|:--------:|
-| 10/2011   | 47% / 30%   | 35% / 25%  | 11	|7|	9|
-| 4/2012   | 45% / 34%   | 46% / 40%   |13|20|18|
+| 10/2011   | 47% / 30%   | 35% / 25%  | 11	|8|	10|
+| 4/2012   | 45% / 34%   | 46% / 40%   |13|21|19|
 | 10/2012   | 43% / 30% | 25% / 16%   |  9|1|2|
-| 4/2013   |  52% / 34%   | 41% / 42%   |18|19|21|
-| 10/2013   | 50% / 34% | 38% / 43%   |  16|18|19|
-| 4/2014   |  45% / 26%   | 43% / 37%   |8|17|15|
-| 10/2014   | 41% / 24% | 40% / 31%   |  4|14|8|
-| 4/2015   |  53% / 34%[^1]   | 43% / 32%   |19|16|16|
-| 10/2015   | 58% / 42% | 35% / 28%   |  21|10|17|
-| 4/2016   |  49% / 31%  | 50% / 37%   |14|21|20|
-| 10/2016   | 45% / 23% | 38% / 29%   |  6|12|7|
-| 4/2017   |  51% / 25%   | 38% / 25%   |20|2|10|
-| 10/2017   | 48% / 37% | 31% / 28%   |  17|6|12|
-| 4/2018   |  40% / 18%   | 29% / 19%   |2|2|1|
-| 10/2018   |  36% / 21%   | 36% / 38%   |1|15|6|
-| 4/2019   |    46% / 34%   | 39% / 26%  |14|11|13|
-| 10/2019   |    42% / 18%   | 33% / 28%  |3|8|5|
+| 4/2013   |  52% / 34%   | 41% / 42%   |18|20|22|
+| 10/2013   | 50% / 34% | 38% / 43%   |  16|19|20|
+| 4/2014   |  45% / 26%   | 43% / 37%   |8|18|16|
+| 10/2014   | 41% / 24% | 40% / 31%   |  4|15|9|
+| 4/2015   |  53% / 34%[^1]   | 43% / 32%   |20|17|17|
+| 10/2015   | 58% / 42% | 35% / 28%   |  22|11|17|
+| 4/2016   |  49% / 31%  | 50% / 37%   |14|22|21|
+| 10/2016   | 45% / 23% | 38% / 29%   |  6|13|8|
+| 4/2017   |  51% / 25%   | 38% / 25%   |21|3|11|
+| 10/2017   | 48% / 37% | 31% / 28%   |  17|7|13|
+| 4/2018   |  40% / 18%   | 29% / 19%   |2|3|1|
+| 10/2018   |  36% / 21%   | 36% / 38%   |1|16|6|
+| 4/2019   |    46% / 34%   | 39% / 26%  |14|12|14|
+| 10/2019   |    42% / 18%   | 33% / 28%  |3|9|5|
 | 4/2020   |    NO   | EXAM | -|NO|EXAM|
-| 10/2020   |    45% / 32%   | 33% / 29%  |11|9|11|
-| 4/2021   |    44% / 31%   | 39% / 31%  |10|13|14|
-| 10/2021   |    40% / 29%   | 24% / 27%  |7|4|T3|
-| 4/2022    |    36% / 30% | 28% / 26% |5|5|T3|
+| 10/2020   |    45% / 32%   | 33% / 29%  |11|10|12|
+| 4/2021   |    44% / 31%   | 39% / 31%  |10|14|15|
+| 10/2021   |    40% / 29%   | 24% / 27%  |7|5|T3|
+| 4/2022    |    36% / 30% | 28% / 26% |5|6|T3|
+| 10/2022    |    47% / 40% | 17% / 28% |19|2|7|
 {: .table}
 
 |              |             |             |||
-| Mean         | 46% / 30%   | 36% / 30%   |||
-| Std. Dev.    | 5.5% / 6.5% | 7.1% / 7.2% |||
+| Mean         | 46% / 31%   | 35% / 30%   |||
+| Std. Dev.    | 5.4% / 6.6% | 8.0% / 7.0% |||
 {: .table}
 
 <figure>
