@@ -16,7 +16,7 @@ share: true
 
 ---
 
-_Updated January 5, 2023_
+_Updated July 5, 2023_
 
 The 16-hour format of the Structural Engineering exam was introduced in April 2011. Beginning in October of that year, I started recording the pass rates after each exam administration. The information provided here was obtained directly from NCEES unless otherwise noted. I've also developed a "Difficulty Rank" metric to quantify how difficult each exam was relative to every other administration of the exam since 2011 (a rank of 1 = hardest exam since 2011).
 
